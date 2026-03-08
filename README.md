@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🛡️ Network Intrusion Detection System
 
@@ -233,3 +233,4 @@ This project is available under the [MIT License](LICENSE).
 
 </div>
 ]]>
+
